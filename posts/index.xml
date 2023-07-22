@@ -9,7 +9,8 @@
     <pubDate>Sat, 22 Jul 2023 18:41:29 &#43;0530</pubDate>
     <author>starman</author>
     <guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[This is the first post Contains all the info println!(&#34;Hello world&#34;); ]]></description>
+    <description><![CDATA[This is the first post Contains all the info
+println!(&#34;Hello world&#34;); ]]></description>
 </item>
 </channel>
 </rss>
